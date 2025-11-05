@@ -1,0 +1,9 @@
+tensorflow
+opencv-python
+numpy
+mediapipe
+deepface
+flask
+requests
+datetime
+werkzeug
